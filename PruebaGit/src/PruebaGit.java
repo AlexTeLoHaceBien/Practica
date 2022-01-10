@@ -5,7 +5,7 @@ public class PruebaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola, soy Git");
 		System.out.println ("Version remote");
-		
+		System.out.println("Versión del becario");
 
 		
 	}
